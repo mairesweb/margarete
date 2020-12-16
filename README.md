@@ -20,11 +20,13 @@ npm install -g @angular/cli
 
 ## Instalação e Uso
 
-### instalação dos módulos/dependências
+### Instalação
 ```bash
+# instala os módulos/dependências
 $ npm install
 ```
 
+### Uso
 ``` bash
 # executar localmente com autoreload em localhost:4200.
 $ ng serve
